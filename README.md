@@ -17,4 +17,4 @@ Before interpreting and analyzing the results, we processed the Raw data obtaine
 
 <img width="657" alt="Screen Shot 2021-12-18 at 11 57 04 PM" src="https://user-images.githubusercontent.com/70657426/146658691-2c1c1d54-7fea-4d91-b794-252e53b27c6e.png">
 
-
+The files uploaded in the repository contain the functions used inside the main file (EMGanalysis.m file) to generate the above processing of the raw data.
